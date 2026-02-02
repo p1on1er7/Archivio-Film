@@ -39,8 +39,6 @@ Il progetto è organizzato in modo modulare:
 - `studente3.c`: algoritmi avanzati (MergeSort e stampa inversa)
 - `main.c`: gestione del menu e coordinamento delle funzionalità
 
-Questa suddivisione permette una maggiore leggibilità del codice e una separazione chiara delle responsabilità.
-
 ---
 
 ## 4. Funzionalità implementate
